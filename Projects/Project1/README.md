@@ -1,13 +1,5 @@
 # Assignment 1: Ensemble Learning Model Comparison
 
-## Course Information
-- **University:** German International University of Applied Sciences
-- **Department:** Informatics and Computer Science
-- **Instructor:** Dr. Caroline Sabty
-- **Teaching Assistant:** Eng. Aya Abdalla
-- **Course:** Advanced Machine Learning, Spring 2024
-- **Due Date:** February 13, 2024 at 11:59 PM
-
 ## Project Overview
 In this assignment, you will explore and compare the performance of three popular ensemble learning models: Random Forest, AdaBoost, and Gradient Boost. The objective is to fine-tune these models on three distinct datasets, perform necessary preprocessing steps, and analyze the results to draw valuable insights.
 
